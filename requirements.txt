@@ -1,0 +1,4 @@
+pyTelegramBotAPI==4.24.0
+ultralytics==8.3.47
+requests==2.32.3
+gigachat==0.1.36
